@@ -6,6 +6,7 @@ Dockerized PHP server
 # Prerequisites:
 
   Docker
+  
   Docker-compose
 
 # RUN:
